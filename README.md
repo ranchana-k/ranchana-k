@@ -2,7 +2,7 @@
 
 I'm self-studying about Data Science and Deep Learning. Here is the place where all I've learned by doing is collected! 
 
-## Skills and Tools
+## 🔧 Skills and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <!--
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈 Github Stats
 [![Ranchana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranchana-k&show_icons=true&theme=material-palenight)](https://github.com/ranchana-k/github-readme-stats)
